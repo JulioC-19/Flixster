@@ -19,7 +19,8 @@ import okhttp3.Headers
 * - What is the TAG used for exactly? it seems like just a display message
 */
 
-private const val YOUTUBE_API_KEY = "AIzaSyBkaZOTwM28C4fSceQ4jv-mE6P-KnUcjvs"
+// NEED API YOUTUBE KEY FROM GOOGLE, GENERATE A NEW KEY  
+private const val YOUTUBE_API_KEY = ""
 private const val TAG = "DetailActivity"
 private const val TRAILERS_URL = "https://api.themoviedb.org/3/movie/%d/videos?api_key=a07e22bc18f5cb106bfe4cc1f83ad8ed"
 // This is creating another screen to transition to
